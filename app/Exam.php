@@ -26,7 +26,7 @@ class Exam extends Model
         'open_for_marks_entry'
     ];
 
-
+// ahmad
     public function class()
     {
         return $this->belongsTo('App\IClass', 'class_id');
